@@ -1,0 +1,9 @@
+body
+{
+    font-family: 'Inconsolata', monospace;
+    width:500px;
+    border:1px solid lightgrey;
+    padding:5px 10px;
+    margin:10px auto;
+}
+
